@@ -1,0 +1,7 @@
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\buton yarış oyunu\buton yarış oyunu\bin\Debug\buton yarış oyunu.exe
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\buton yarış oyunu\buton yarış oyunu\bin\Debug\buton yarış oyunu.pdb
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\buton yarış oyunu\buton yarış oyunu\obj\x86\Debug\buton_yarış_oyunu.Form1.resources
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\buton yarış oyunu\buton yarış oyunu\obj\x86\Debug\buton_yarış_oyunu.Properties.Resources.resources
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\buton yarış oyunu\buton yarış oyunu\obj\x86\Debug\buton yarış oyunu.csproj.GenerateResource.Cache
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\buton yarış oyunu\buton yarış oyunu\obj\x86\Debug\buton yarış oyunu.exe
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\buton yarış oyunu\buton yarış oyunu\obj\x86\Debug\buton yarış oyunu.pdb

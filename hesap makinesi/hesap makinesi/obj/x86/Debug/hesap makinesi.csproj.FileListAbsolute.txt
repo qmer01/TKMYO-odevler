@@ -1,0 +1,7 @@
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Form1.resources
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Properties.Resources.resources
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.csproj.GenerateResource.Cache
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.exe
+C:\Users\ömer faruk üstek\Desktop\visual ödevler TKMYO\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.pdb
